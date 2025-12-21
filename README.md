@@ -20,9 +20,14 @@ that captures, qualifies, and automates client acquisition at scale.
 ---
 ## PROBLEM STATEMENT
 
-• Lead Leakage        : Slow pages, weak UI hierarchy, unclear messaging
-• Manual Overload     : 5+ hours/week lost to emails & scheduling
-• Tech Fragmentation  : Disconnected tools with no shared logic
+• Lead Leakage
+  Slow pages, weak UI hierarchy, unclear messaging
+
+• Manual Overload
+  5+ hours/week lost to emails & scheduling
+
+• Tech Fragmentation
+  Disconnected tools with no shared logic
 
 ---
 ## SYSTEM SOLUTION
@@ -39,13 +44,24 @@ that captures, qualifies, and automates client acquisition at scale.
 ---
 ## TECH STACK
 
-Frontend        : HTML5, TailwindCSS, Vanilla JavaScript
-UI & Logic      : IntersectionObserver API, Glassmorphism,
-                  Fluid Responsive Design
-Automation      : Zapier / Make
-Data Layer      : Airtable / Google Sheets
-Payments        : Stripe
-Deployment      : Vercel / Netlify (Global CDN Optimized)
+• Frontend
+  HTML5, TailwindCSS, Vanilla JavaScript
+  
+• UI & Logic
+  IntersectionObserver API, Glassmorphism,
+  Fluid Responsive Design
+
+• Automation
+  Zapier / Make
+
+• Data Layer
+  Airtable / Google Sheets
+
+• Payments
+  Stripe
+
+• Deployment
+  Vercel / Netlify (Global CDN Optimized)
 
 ---
 ## CORE MODULES
@@ -82,16 +98,24 @@ Deployment      : Vercel / Netlify (Global CDN Optimized)
 ---
 ## USAGE & CUSTOMIZATION
 
-• Tailwind Config     : tailwind.config.js (brand tokens & colors)
-• Breakpoints        : Mobile (320px), Tablet (768px), Desktop (1280px+)
-• Navigation         : Smooth internal scroll (#contact, #projects)
+• Tailwind Config
+  tailwind.config.js (brand tokens & colors)
+
+• Breakpoints
+  Mobile (320px), Tablet (768px), Desktop (1280px+)
+
+• Navigation
+  Smooth internal scroll (#contact, #projects)
 
 ---
 ## INTEGRATION CAPABILITIES
 
-CRMs        : HubSpot, Pipedrive, Custom Airtable Bases
-Schedulers  : Calendly, Acuity
-Messaging   : WhatsApp Business API, Twilio
+• CRMs
+  HubSpot, Pipedrive, Custom Airtable Bases
+• Schedulers
+  Calendly, Acuity
+• Messaging
+  WhatsApp Business API, Twilio
 
 ---
 ## LICENSE
